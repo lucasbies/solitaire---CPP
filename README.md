@@ -129,12 +129,3 @@ Un message de victoire est alors affiché.
 - **Bibliothèque** : Standard C++ uniquement
 - **Plateforme** : Windows (UTF-8 pour l’affichage des symboles)
 
----
-
-## Compilation et exécution
-
-### Exemple avec g++
-
-```bash
-g++ *.cpp -o solitaire
-./solitaire
