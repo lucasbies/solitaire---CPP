@@ -1,0 +1,20 @@
+# Build folders
+[Bb]in/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+
+# Visual Studio files
+*.vcxproj.user
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.ipch
+*.opensdf
+*.VC.db
+
+# OS files
+Thumbs.db
+.DS_Store
